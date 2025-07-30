@@ -1,4 +1,4 @@
-## ✨ GitHub Summary Cards
+## ✨ Patrick GitHub Summary Cards
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Patrick7241/Patrick7241/main/profile-summary-card-output/2077/profile-details.svg" />
