@@ -1,9 +1,9 @@
 ## ✨ GitHub Summary Cards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrick7241&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Patrick7241&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick7241&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patrick7241&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Patrick7241&theme=2077" />
+  <img src="https://raw.githubusercontent.com/Patrick7241/Patrick7241/main/profile-summary-card-output/2077/profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Patrick7241/Patrick7241/main/profile-summary-card-output/2077/repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Patrick7241/Patrick7241/main/profile-summary-card-output/2077/most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Patrick7241/Patrick7241/main/profile-summary-card-output/2077/stats.svg" />
+  <img src="https://raw.githubusercontent.com/Patrick7241/Patrick7241/main/profile-summary-card-output/2077/productive-time.svg" />
 </p>
